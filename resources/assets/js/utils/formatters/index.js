@@ -31,7 +31,11 @@ const currencyOptions = [
   {
     label: "¥ YEN",
     value: "YEN"
+  },
+  {
+    label: "R$ BRL",
+    value: "BRL"
   }
-];
+  ];
 
 export { languageOptions, currencyOptions, Money };
